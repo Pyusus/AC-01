@@ -3,3 +3,4 @@ Aplicativo de academia inovador criado para facilitar a rotina de atletas e alun
 
 # URL
 
+https://ac-01.infinityfree.io/
