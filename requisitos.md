@@ -1,8 +1,7 @@
 # Aplicativo de academia
 
 ## Objetivos
-criar um site de academia que auxilie na organização da rotina do atleta\aluno, disponibilize acompanhar o progresso, definir metas, ver treinos e exercícios. 
--ao abrir página, aparecer dashboard 
+criar um site de academia que auxilie na organização da rotina do atleta\aluno, disponibilize acompanhar o progresso, definir metas, ver treinos e exercícios. ao abrir página, aparecer dashboard 
 ### Stack Tecnlógico
 - Backend: PHP estruturado com sessões nativas
 - Banco de dados: MySQL (PDO para segurança)
