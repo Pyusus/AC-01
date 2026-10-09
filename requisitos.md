@@ -1,4 +1,4 @@
-# To-Do
+# Aplicativo de academia
 
 ## Objetivos
 
