@@ -17,7 +17,7 @@ Insira suas regras de negocio.
 2	Insere a senha 	
 3	Cliente em entrar	
 4		Abre a tela inicial 
--Gerenciando o atendimento ao cliente
+- Gerenciando o atendimento ao cliente
 Abrir sistema 	
 	Exibir tela de inicio
 Entrar em clientes 	
@@ -25,12 +25,12 @@ Entrar em clientes
 Clicar em pagamentos 	
 	Abrir ficha de valores e pagamentos mensais
 Enviar pagamento ao Email do cliente	
--Gerenciamento de treinos
+- Gerenciamento de treinos
 Personal oferece os treinos ao cliente/aluno, mostra os treinos e ensina a execução deles.	
 	Realiza os treinos e registra a lista de treinos no aplicativo.
 Avalia o treino e o desempenho do cliente/aluno e classifica o nível de treino.	
 	Cliente/aluno registra seus resultados no aplicativo e conclui o treino.
--Finalização do treino
+- Finalização do treino
 Registrou no aplicativo	
 	Marca na diária como treino concluído e contabiliza.
 
